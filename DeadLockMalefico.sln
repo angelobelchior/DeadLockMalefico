@@ -1,0 +1,16 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLockMalefico", "src\DeadLockMalefico.csproj", "{C17B8784-6298-4A21-B17F-6EB2A47D57FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17B8784-6298-4A21-B17F-6EB2A47D57FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17B8784-6298-4A21-B17F-6EB2A47D57FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17B8784-6298-4A21-B17F-6EB2A47D57FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17B8784-6298-4A21-B17F-6EB2A47D57FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
